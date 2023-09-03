@@ -41,6 +41,6 @@
 - [오픈 소스 프로젝트 이름 1](https://github.com/project1) - 기여 내역 요약
 - [오픈 소스 프로젝트 이름 2](https://github.com/project2) - 기여 내역 요약
 
-## 📈 백준 알고리즘 점수
+## 📈 백준 문제 풀이 기록
+![백준 문제 풀이 기록](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjsqls2119)
 
-- [백준 프로필](https://www.acmicpc.net/user/your_username)
