@@ -4,7 +4,7 @@
 
 ## 🔧 기술 스택
 
-- 언어: Python 🐍, JavaScript 🕸️
+- 언어: Python , Java, 
 - 웹 개발: HTML5 🌐, CSS3 💅, React.js ⚛️, Node.js 🚀
 - 데이터베이스: MongoDB 🍃, PostgreSQL 🐘
 - 기타: Git 🌿, Docker 🐳
