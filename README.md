@@ -4,22 +4,19 @@
 
 ## 🔧 기술 스택
 
-- 언어: Python , Java, C, ...
-- 웹 개발: HTML5 🌐, CSS3 💅, React.js ⚛️, Node.js 🚀
-- 데이터베이스: MongoDB 🍃, PostgreSQL 🐘
-- 기타: Git 🌿, Docker 🐳
+- 언어: python , Java, C
+- 웹 개발: spring
+- 데이터베이스: Mysql
+- 기타: Git
 
 ## 🌱 현재 학습 중인 것들
 
 - 딥러닝과 머신러닝
-- 서버리스 아키텍처
-- 클라우드 컴퓨팅 (AWS, Azure)
+- 프론트 엔드
 
 ## 📫 연락처
 
 - 이메일: your.email@example.com
-- LinkedIn: [LinkedIn 프로필 링크](https://www.linkedin.com/in/yourusername)
-- Twitter: [Twitter 프로필 링크](https://twitter.com/yourusername)
 
 ## ⚡ 프로젝트
 
