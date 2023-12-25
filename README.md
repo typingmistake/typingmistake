@@ -1,13 +1,12 @@
 # 안녕하세요! 👋
 
-.
 
 ## 🔧 기술 스택
 
-- 언어: python , Java, C
-- 웹 개발: spring
-- 데이터베이스: Mysql
-- 기타: Git
+- 언어: `python` , `Java`, `C`
+- 웹 개발: `Spring`
+- 데이터베이스: `Mysql`
+- 기타: `Git`
 
 ## 🌱 현재 학습 중인 것들
 
