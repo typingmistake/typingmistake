@@ -6,7 +6,7 @@
 - 언어: `python` , `Java`, `C`
 - 프레임워크: `Spring` `Django`
 - 데이터베이스: `Mysql`
-- 기타: `Git` `Ubuntu` `Raspberry Pi` `Linux`
+- 기타: `Git` `Ubuntu` `Raspberry Pi` `Linux` `Notion`
 
 ## 🌱 현재 학습 중인 것들
 
