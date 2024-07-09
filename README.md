@@ -16,7 +16,7 @@
 
 ## 📫 연락처
 
-- 이메일: your.email@example.com
+- 이메일: tjsqls2119@cau.ac.kr
 
 ## ⚡ 프로젝트
 
