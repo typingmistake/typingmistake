@@ -1,18 +1,20 @@
 # 안녕하세요! 👋
-
+컴퓨터 과학에 대한 열정을 바탕으로 사회 발전에 기여하는 소프트웨어 엔지니어를 꿈꿉니다.
 
 ## 🔧 기술 스택
 
-- 언어: `python` , `Java`, `C`, `SQL`
-- 프레임워크: `Spring` `Django`
-- 데이터베이스: `Mysql`
-- 기타: `Git` `Ubuntu` `Raspberry Pi` `Linux` `Notion`
+- 언어: `python` , `Java`, `C`, `SQL`, `JavaScript`
+- 프레임워크: `Spring`, `Django`
+- 데이터베이스: `Mysql`, `sqlite`
+- 기타: `Git`, `Ubuntu`, `Raspberry Pi`, `Linux`, `YOLO`, `GCP`, `Pigma`
 
 ## 🌱 현재 학습 중인 것들
 
-- 딥러닝과 머신러닝
+- `딥러닝과 머신러닝`
+- `C++`
 - `FastAPI`
-- `Next.js` `JavaScript` `Figma`
+- `React.js`
+- `Next.js`
 
 ## 📫 연락처
 
