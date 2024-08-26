@@ -3,7 +3,7 @@
 - 언어: `python` , `Java`, `C`, `SQL`, `JavaScript`
 - 프레임워크: `Spring`, `Django`
 - 데이터베이스: `Mysql`, `sqlite`
-- 기타: `Git`, `Ubuntu`, `Raspberry Pi`, `Linux`, `YOLO`, `GCP`, `Pigma`
+- 기타: `Git`, `Ubuntu`, `Raspberry Pi`, `Linux`, `YOLO`, `GCP`, `Figma`
 
 ## 🌱 현재 학습 중인 것들
 
