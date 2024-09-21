@@ -40,5 +40,5 @@
 [![백준 문제 풀이 기록](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjsqls2119)](https://solved.ac/profile/tjsqls2119)
 
 ## 💻 GitHub stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=typingmistake&count_private=true&theme=buefy&show_icons=true)
+![Sunbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=typingmistake&count_private=true&theme=buefy&show_icons=true)
 
