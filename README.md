@@ -39,6 +39,4 @@
 ## 📈 알고리즘
 [![백준 문제 풀이 기록](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjsqls2119)](https://solved.ac/profile/tjsqls2119)
 
-## 💻 GitHub stats
-![Sunbin's GitHub stats](https://github-readme-stats-gamma-six-44.vercel.app/api?username=typingmistake&count_private=true&include_all_commits=true&theme=buefy&show_icons=true)
 
