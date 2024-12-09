@@ -17,5 +17,19 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
+---
+
+## 경험
+| Experience/Achievement | Period |
+|------------------|---------|
+| Mayor's Award - KTL Speech Recognition Award | 2023.11 |
+| Google Solution Challenge Global Top 100 | 2023.12 - 2024.05 |
+| Silver Prize - Unid-Thon (Union of Developing Students) | 2024.11 |
+| Naver Boostcamp Web Full-Stack Course (Basic + Challenge + Membership) | 2024.06 - 2024.12 |
+| Vice Representative - 9oormthonUNIV at Chung-Ang University | - |
+| Member - GDG on Campus Chung-Ang University Chapter | - |
+
+---
+
 ## 📈 알고리즘
 [![백준 문제 풀이 기록](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjsqls2119)](https://solved.ac/profile/tjsqls2119)
