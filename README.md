@@ -1,4 +1,4 @@
-## 🔧 기술 스택
+## 기술 스택
 ### 언어
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -17,6 +17,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
+### 인프라
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![NCP](https://img.shields.io/badge/NCP-03C75A?style=for-the-badge&logo=naver&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+
 ---
 
 ## 경험
@@ -31,5 +38,5 @@
 
 ---
 
-## 📈 알고리즘
+## 알고리즘
 [![백준 문제 풀이 기록](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjsqls2119)](https://solved.ac/profile/tjsqls2119)
