@@ -12,6 +12,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### 데이터베이스
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -33,8 +34,9 @@
 | Google Solution Challenge Global Top 100 | 2023.12 - 2024.05 |
 | Silver Prize - Unid-Thon (Union of Developing Students) | 2024.11 |
 | Naver Boostcamp Web Full-Stack Course (Basic + Challenge + Membership) | 2024.06 - 2024.12 |
-| Vice Representative - 9oormthonUNIV at Chung-Ang University | - |
+| Vice Representative - 9oormthonUNIV at Chung-Ang University | 2024.09 - 2025.01 |
 | Member - GDG on Campus Chung-Ang University Chapter | - |
+| SKT FLY AI 6st | 2024.12 - |
 
 ---
 
