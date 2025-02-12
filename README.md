@@ -35,7 +35,6 @@
 | 은상 - Unid-Thon (Union of Developing Students) | 2024.11 |
 | 네이버 부스트캠프 웹풀스택 (Basic + Challenge + Membership) | 2024.06 - 2024.12 |
 | 교내 부대표 - 9oormthonUNIV at Chung-Ang University | 2024.09 - 2025.01 |
-| 멤버 - GDG on Campus Chung-Ang University Chapter | - |
 | SKT FLY AI 6기 | 2024.12 - 2025.03|
 
 ---
