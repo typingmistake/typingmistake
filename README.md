@@ -30,13 +30,13 @@
 ## 경험
 | Experience/Achievement | Period |
 |------------------|---------|
-| Mayor's Award - KTL Speech Recognition Award | 2023.11 |
+| 화성시장상 - KTL Speech Recognition Award | 2023.11 |
 | Google Solution Challenge Global Top 100 | 2023.12 - 2024.05 |
-| Silver Prize - Unid-Thon (Union of Developing Students) | 2024.11 |
-| Naver Boostcamp Web Full-Stack Course (Basic + Challenge + Membership) | 2024.06 - 2024.12 |
-| Vice Representative - 9oormthonUNIV at Chung-Ang University | 2024.09 - 2025.01 |
-| Member - GDG on Campus Chung-Ang University Chapter | - |
-| SKT FLY AI 6st | 2024.12 - |
+| 은상 - Unid-Thon (Union of Developing Students) | 2024.11 |
+| 네이버 부스트캠프 웹풀스택 (Basic + Challenge + Membership) | 2024.06 - 2024.12 |
+| 교내 부대표 - 9oormthonUNIV at Chung-Ang University | 2024.09 - 2025.01 |
+| 멤버 - GDG on Campus Chung-Ang University Chapter | - |
+| SKT FLY AI 6기 | 2024.12 - 2025.03|
 
 ---
 
